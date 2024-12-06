@@ -13,7 +13,7 @@ A flexible rent payment scheduling system that helps users manage their rent pay
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rentflow.git
+git clone https://github.com/vineetvijaykumar/rentflow.git
 cd rentflow
 ```
 
